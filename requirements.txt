@@ -1,0 +1,9 @@
+python-telegram-bot==13.15
+pynput
+requests
+cryptography
+bs4
+colorama
+pyfiglet
+dnspython
+python-whois
